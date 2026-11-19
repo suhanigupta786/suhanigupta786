@@ -4,16 +4,11 @@
 
 ### Computer Science & AI Student | AI/ML Enthusiast | Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-9b59b6?style=for-the-badge&logo=vercel&logoColor=white)](https://suhani-portfolio-livid.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-gupta-6a7824323/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/suhanigupta786)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Suhanigupta_/)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=650&lines=Building+with+AI+%26+Machine+Learning;Turning+Data+into+Insights;Exploring+Generative+AI;Creating+Full-Stack+Applications" alt="Typing SVG" />
-
 </div>
 
----
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 ## 👩‍💻 About Me
 
@@ -27,6 +22,26 @@ I enjoy exploring how data and technology can turn ideas into meaningful solutio
 - 💻 Building full-stack applications and practical AI solutions.
 - 🧩 Solved **600+ problems on LeetCode**.
 - 🌱 Always learning, experimenting and building something new!
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/profile.jpg" width="250" alt="Suhani Gupta" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-9b59b6?style=for-the-badge&logo=vercel&logoColor=white)](https://suhani-portfolio-livid.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-gupta-6a7824323/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/suhanigupta786)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Suhanigupta_/)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=650&lines=Building+with+AI+%26+Machine+Learning;Turning+Data+into+Insights;Exploring+Generative+AI;Creating+Full-Stack+Applications" alt="Typing SVG" />
+
+</div>
 
 ---
 
