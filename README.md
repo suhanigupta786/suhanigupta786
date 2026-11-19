@@ -26,7 +26,7 @@ I enjoy exploring how data and technology can turn ideas into meaningful solutio
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/profile.jpg" width="250" alt="Suhani Gupta" />
+<img src="./assets/profile.jpeg" width="250" alt="Suhani Gupta" />
 
 </td>
 </tr>
